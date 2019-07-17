@@ -1,0 +1,304 @@
+<?xml version="1.0" standalone="yes"?>
+<DiameterPicup>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>4.699</Diameter>
+  <MaxRate>36.33</MaxRate>
+  <MinRate>0.454</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>8.585</Diameter>
+  <MaxRate>121.2</MaxRate>
+  <MinRate>1.515</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>5</SyringeVolume>
+  <Diameter>11.99</Diameter>
+  <MaxRate>236.5</MaxRate>
+  <MinRate>2.954</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>10</SyringeVolume>
+  <Diameter>14.43</Diameter>
+  <MaxRate>342.6</MaxRate>
+  <MinRate>4.279</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>19.05</Diameter>
+  <MaxRate>597.1</MaxRate>
+  <MinRate>7.457</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>30</SyringeVolume>
+  <Diameter>21.59</Diameter>
+  <MaxRate>766.9</MaxRate>
+  <MinRate>9.578</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>B-D</Manufacturer>
+  <SyringeVolume>60</SyringeVolume>
+  <Diameter>26.59</Diameter>
+  <MaxRate>1163</MaxRate>
+  <MinRate>14.53</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>4.69</Diameter>
+  <MaxRate>36.19</MaxRate>
+  <MinRate>0.452</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>9.65</Diameter>
+  <MaxRate>153.2</MaxRate>
+  <MinRate>1.914</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>5</SyringeVolume>
+  <Diameter>12.45</Diameter>
+  <MaxRate>255</MaxRate>
+  <MinRate>3.185</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>10</SyringeVolume>
+  <Diameter>15.9</Diameter>
+  <MaxRate>415.9</MaxRate>
+  <MinRate>5.195</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>20.05</Diameter>
+  <MaxRate>661.4</MaxRate>
+  <MinRate>8.26</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>30</SyringeVolume>
+  <Diameter>22.9</Diameter>
+  <MaxRate>862.8</MaxRate>
+  <MinRate>10.78</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>HSW | Norm-Ject</Manufacturer>
+  <SyringeVolume>50</SyringeVolume>
+  <Diameter>29.2</Diameter>
+  <MaxRate>1402</MaxRate>
+  <MinRate>17.52</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>5.74</Diameter>
+  <MaxRate>54.21</MaxRate>
+  <MinRate>0.677</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>8.941</Diameter>
+  <MaxRate>131.5</MaxRate>
+  <MinRate>1.643</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>6</SyringeVolume>
+  <Diameter>12.7</Diameter>
+  <MaxRate>265.3</MaxRate>
+  <MinRate>3.314</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>12</SyringeVolume>
+  <Diameter>15.72</Diameter>
+  <MaxRate>406.6</MaxRate>
+  <MinRate>5.078</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>20.12</Diameter>
+  <MaxRate>666</MaxRate>
+  <MinRate>8.318</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>35</SyringeVolume>
+  <Diameter>23.52</Diameter>
+  <MaxRate>910.2</MaxRate>
+  <MinRate>11.37</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>60</SyringeVolume>
+  <Diameter>26.64</Diameter>
+  <MaxRate>1167</MaxRate>
+  <MinRate>14.59</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Monoject</Manufacturer>
+  <SyringeVolume>140</SyringeVolume>
+  <Diameter>38</Diameter>
+  <MaxRate>2376</MaxRate>
+  <MinRate>29.67</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>4.7</Diameter>
+  <MaxRate>36.34</MaxRate>
+  <MinRate>0.454</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>8.95</Diameter>
+  <MaxRate>131.8</MaxRate>
+  <MinRate>1.646</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>5</SyringeVolume>
+  <Diameter>13</Diameter>
+  <MaxRate>278</MaxRate>
+  <MinRate>3.473</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>10</SyringeVolume>
+  <Diameter>15.8</Diameter>
+  <MaxRate>410.7</MaxRate>
+  <MinRate>5.13</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>20.15</Diameter>
+  <MaxRate>668</MaxRate>
+  <MinRate>8.343</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>30</SyringeVolume>
+  <Diameter>23.1</Diameter>
+  <MaxRate>878</MaxRate>
+  <MinRate>10.97</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Terumo</Manufacturer>
+  <SyringeVolume>60</SyringeVolume>
+  <Diameter>29.7</Diameter>
+  <MaxRate>1451</MaxRate>
+  <MinRate>18.13</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>6.7</Diameter>
+  <MaxRate>73.86</MaxRate>
+  <MinRate>0.923</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>2</SyringeVolume>
+  <Diameter>8.91</Diameter>
+  <MaxRate>130.6</MaxRate>
+  <MinRate>1.632</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>9.06</Diameter>
+  <MaxRate>135</MaxRate>
+  <MinRate>1.687</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>5</SyringeVolume>
+  <Diameter>11.75</Diameter>
+  <MaxRate>227.1</MaxRate>
+  <MinRate>2.837</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>10</SyringeVolume>
+  <Diameter>14.67</Diameter>
+  <MaxRate>354.1</MaxRate>
+  <MinRate>4.422</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>19.62</Diameter>
+  <MaxRate>633.3</MaxRate>
+  <MinRate>7.91</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>30</SyringeVolume>
+  <Diameter>22.69</Diameter>
+  <MaxRate>847.1</MaxRate>
+  <MinRate>10.58</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Poulten &amp; Graf (Glass)</Manufacturer>
+  <SyringeVolume>50</SyringeVolume>
+  <Diameter>26.96</Diameter>
+  <MaxRate>1195</MaxRate>
+  <MinRate>14.94</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>1</SyringeVolume>
+  <Diameter>9.538</Diameter>
+  <MaxRate>149.6</MaxRate>
+  <MinRate>1.87</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>3</SyringeVolume>
+  <Diameter>9.538</Diameter>
+  <MaxRate>149.6</MaxRate>
+  <MinRate>1.87</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>5</SyringeVolume>
+  <Diameter>12.7</Diameter>
+  <MaxRate>265.3</MaxRate>
+  <MinRate>3.314</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>8</SyringeVolume>
+  <Diameter>9.538</Diameter>
+  <MaxRate>149.6</MaxRate>
+  <MinRate>1.87</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>20</SyringeVolume>
+  <Diameter>19.13</Diameter>
+  <MaxRate>602.1</MaxRate>
+  <MinRate>7.52</MinRate>
+</Syringe>
+<Syringe>
+  <Manufacturer>Steel Syringes</Manufacturer>
+  <SyringeVolume>50</SyringeVolume>
+  <Diameter>28.6</Diameter>
+  <MaxRate>1345</MaxRate>
+  <MinRate>16.81</MinRate>
+</Syringe>
+</DiameterPicup>
